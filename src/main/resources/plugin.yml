@@ -1,0 +1,6 @@
+name: NoBoatFallDamage
+version: '1.0.0'
+main: me.honeyberries.noBoatFallDamage.NoBoatFallDamage
+api-version: '1.19'
+authors: [ HoneyBerries ]
+description: Prevents players from taking fall damage when riding in boats.
